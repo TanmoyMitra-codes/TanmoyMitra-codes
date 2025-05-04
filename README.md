@@ -13,12 +13,7 @@
 
 - 📫 How to reach me **tanmoy.butex@gmail.com**
 
-- 📫  [Portfolio](https://sajibkhansk.netlify.app)
 
-- 📄 [Resume](https://sajibkhansk.netlify.app)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajibkhansk&label=Profile%20views&color=0c6dd4&style=flat" alt="sajibkhansk" /> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://www.linkedin.com/in/tanmoymitra8823" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TanmoyMitra" height="30" width="40" /></a>
 <a href="https://www.facebook.com/TANMOY.AR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="TanmoyMitra" height="30" width="40" /></a>
 <a href="https://www.instagram.com/tanmoy.ar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="TanmoyMitra" height="30" width="40" /></a>
