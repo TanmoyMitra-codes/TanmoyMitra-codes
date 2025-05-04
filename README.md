@@ -1,10 +1,10 @@
 ![I am a Textile Engineer & Data Analytics Enthusiast](https://media.licdn.com/dms/image/v2/D5616AQH3Zyuk9rIn_w/profile-displaybackgroundimage-shrink_350_1400/B56ZZyheT2HUAY-/0/1745678101459?e=1752105600&v=beta&t=Lj0-cFRDl-xhtzjvGW9J7BuRt_es_WySRcU7k1lmGaY)
 ### Hi there 👋, I'm Tanmoy Mitra.
-#### I am a Textile Engineer & Data Analytics Enthusiast
+#### A Textile Engineer & Data Analytics Enthusiast
 
 I’m a BSc Textile Engineering graduate and aspiring Data Analytics enthusiast. I’m building my skills in data analytics, data science, and machine learning, using tools like Advanced Excel, Power BI, MySQL, and Python. I am passionate about uncovering insights from data and applying analytical thinking to solve real-world problems.
 
-Skills: Excel / Power BI/ MySQL / Python
+**Skills: Excel | Power BI | MySQL | Python**
 
 - 🔭 I completed my BSc in Textile Engineering from **Bangladesh University Of Textiles (BUTEX)** 
 - 🌱 I’m currently learning **Data Analysis, Data Science, Machine Learning and Artificial Intelligence by using tools like Excel, Power BI, MySQL & Python.** 
