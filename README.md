@@ -4,11 +4,11 @@
  
 - 🔭 I completed my BSc in Textile Engineering from **Bangladesh University Of Textiles (BUTEX)**
 
-- 🌱 I’m currently learning **Data Analysis, Data Science, Machine Learning and Artificial Intelligence**
+- 🌱 I’m currently learning **Data Analysis, Data Science, Machine Learning and Artificial Intelligence by using tools like Excel, Power BI, MySQL & Python**
 
-- 👯 I’m looking to collaborate on **Remote Job with any Multinational Company.**
+- 👯 I’m looking to collaborate on **Remote Job with any Multinational Company**
 
-- 👨‍💻 All of my **Data Analysis** projects are available at [https://github.com/TanmoyMitra-codes?tab=repositories](https://github.com/sajibkhansk?tab=repositories)
+- 👨‍💻 All of my **Data Analysis** projects are available at [https://github.com/TanmoyMitra-codes?tab=repositories](https://github.com/TanmoyMitra-codes?tab=repositories)
 
 - 📫 How to reach me **tanmoy.butex@gmail.com**
 
