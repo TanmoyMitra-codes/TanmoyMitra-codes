@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Remote Job with any Multinational Company.**
 
-- 👨‍💻 All of my **Data Analysis** projects are available at [https://github.com/TanmoyMitra-codes?tab=repositories](https://github.com/TanmoyMitra-codes?tab=repositories)
+- 👨‍💻 All of my **Data Analysis** projects are available at [https://github.com/TanmoyMitra-codes?tab=repositories]
 
 - 📫 How to reach me **tanmoy.butex@gmail.com**
 
