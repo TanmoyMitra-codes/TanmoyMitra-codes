@@ -1,5 +1,5 @@
 
-<h3 align="center">Hello, I am Sajib Khan. A Textile Engineer & Data Analytics Enthusiast</h3>
+<h3 align="center">Hello, I am Tanmoy Mitra. A Textile Engineer & Data Analytics Enthusiast</h3>
 <br>
  
 - 🔭 I completed my BSc in Textile Engineering from **Bangladesh University Of Textiles (BUTEX)**
