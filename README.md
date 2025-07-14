@@ -1,4 +1,4 @@
-![logo]([https://media.licdn.com/dms/image/v2/D5616AQH3Zyuk9rIn_w/profile-displaybackgroundimage-shrink_350_1400/B56ZZyheT2HUAY-/0/1745678101459?e=1752105600&v=beta&t=Lj0-cFRDl-xhtzjvGW9J7BuRt_es_WySRcU7k1lmGaY](https://www.canva.com/design/DAGlJ_XAFBE/X5LMc-P01PkPpq7pqXDXDQ/edit?utm_content=DAGlJ_XAFBE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+![logo](https://github.com/TanmoyMitra-codes/TanmoyMitra-codes/blob/main/linkdin%20cover%20(1).png)
 ### Hi there 👋, I'm Tanmoy Mitra.
 #### A Textile Engineer & Data Analytics Enthusiast
 
